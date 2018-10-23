@@ -1,0 +1,42 @@
+body{
+    font-family: '微軟正黑體','Arial';
+}
+.logo-field{
+    height: 125px;
+    text-align: center;
+    line-height: 125px;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+}
+.logo-field img{
+    height: 75px;
+}
+.website-card-title{
+
+}
+
+.website-card-subtitle{
+    font-size: 14px;
+}
+
+.website-card-text{
+    font-size: 10px;
+    min-height: 100px;
+}
+
+#babacar-bg{
+    background-color: #0081c2;
+}
+#chemistry-bg{
+    background-color: #20C997;
+}
+#hust-bg{
+    background-color: #65B9B4;
+}
+#hust-logo{
+    height: 100px;
+}
+#hesp-logo{
+    height: 100px;
+}
